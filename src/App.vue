@@ -48,3 +48,17 @@ export default {
   }),
 };
 </script>
+
+<style lang="scss">
+h1 {
+  background-color: aliceblue;
+}
+details {
+  summary {
+    font-size: x-large;
+  }
+  ul {
+    background-color: antiquewhite;
+  }
+}
+</style>

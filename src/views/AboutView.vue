@@ -2,22 +2,6 @@
   <div class="about">
     <h1>This is an about page</h1>
     <v-btn> Button </v-btn>
-    <v-simple-table>
-      <template v-slot:default>
-        <thead>
-          <tr>
-            <th class="text-left">Name</th>
-            <th class="text-left">Calories</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr v-for="item in desserts" :key="item.name">
-            <td>{{ item.name }}</td>
-            <td>{{ item.calories }}</td>
-          </tr>
-        </tbody>
-      </template>
-    </v-simple-table>
 
     <v-data-table
       :headers="headers"
@@ -25,6 +9,13 @@
       :items-per-page="5"
       class="elevation-1"
     ></v-data-table>
+
+    <details open>
+      <summary>test</summary>
+      <ul>
+        <li>jojfe</li>
+      </ul>
+    </details>
   </div>
 </template>
 
