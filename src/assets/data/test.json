@@ -1,0 +1,67 @@
+[
+  {
+    "key": "半角/全角",
+    "shiftKey": "半角/全角",
+    "code": ""
+  },
+  {
+    "key": 1,
+    "shiftKey": "!",
+    "code": "Digit1"
+  },
+  {
+    "key": 2,
+    "shiftKey": "",
+    "code": "Digit2"
+  },
+  {
+    "key": 3,
+    "shiftKey": "#",
+    "code": "Digit3"
+  },
+  {
+    "key": 4,
+    "shiftKey": "$",
+    "code": "Digit4"
+  },
+  {
+    "key": 5,
+    "shiftKey": "%",
+    "code": "Digit5"
+  },
+  {
+    "key": 6,
+    "shiftKey": "&",
+    "code": "Digit6"
+  },
+  {
+    "key": 7,
+    "shiftKey": "'",
+    "code": "Digit7"
+  },
+  {
+    "key": 8,
+    "shiftKey": "(",
+    "code": "Digit8"
+  },
+  {
+    "key": 9,
+    "shiftKey": ")",
+    "code": "Digit9"
+  },
+  {
+    "key": 0,
+    "shiftKey": 0,
+    "code": "Digit0"
+  },
+  {
+    "key": "-",
+    "shiftKey": "=",
+    "code": "Minus"
+  },
+  {
+    "key": "^",
+    "shiftKey": "~",
+    "code": "Equal"
+  }
+]

@@ -16,13 +16,17 @@
         <li>jojfe</li>
       </ul>
     </details>
+
+    <div>{{ data }}</div>
   </div>
 </template>
 
 <script>
+const data = require("@/assets/data/test.json");
 export default {
   data() {
     return {
+      data: data,
       headers: [
         {
           text: "Dessert (100g serving)",
